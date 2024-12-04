@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **marine biology or data visualization**
 
-- 📫 How to reach me **haag.n@northeastern.edu**
+- 📫 How to reach me **noahhaag1998@gmail.com**
 
 - ⚡ Fun fact **When I am not coding, I enjoy SCUBA diving.**
 
