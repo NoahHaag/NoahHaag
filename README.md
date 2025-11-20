@@ -23,7 +23,7 @@ My work spans image-based species identification, automated data processing, and
 <h2>📘 Current Work</h2>
 <ul>
   <li>Developing <strong>image segmentation and classification pipelines</strong> for fish and coral imagery</li>
-  <li>Building a <strong>coral reef research assistant</strong> using local LLMs, FAISS retrieval, and PDF parsing</li>
+  <li>Building a <strong>coral reef research assistant</strong> using local LLMs, semantic retrieval, and PDF parsing</li>
   <li>Designing <strong>agent-based LLM tools</strong> for automated literature synthesis and dataset exploration</li>
   <li>Exploring <strong>multi-step scientific reasoning frameworks</strong> for marine ecology applications</li>
 </ul>
@@ -32,7 +32,6 @@ My work spans image-based species identification, automated data processing, and
 
 <h2>🧪 Selected Projects</h2>
 <ul>
-  <li><strong>Fish Species Classifier</strong> — Hybrid CNN + feature-based model for 41 reef species</li>
   <li><strong>Coral Reef RAG Assistant</strong> — Local LLM with semantic retrieval and embedded PDF linking</li>
   <li><strong>Automated Image Segmentation Pipeline</strong> — Augmentation, preprocessing, species mask generation</li>
   <li><strong>Ecological Data Tools</strong> — Time-series analysis, visualization dashboards, statistical modeling in R</li>
