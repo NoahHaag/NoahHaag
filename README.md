@@ -73,7 +73,5 @@ My work spans image-based species identification, automated data processing, and
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noahhaag&show_icons=true&theme=default" alt="GitHub stats"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahhaag&layout=compact" alt="Top languages"/>
 </p>
